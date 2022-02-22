@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamacion set furth by thee Kynges Maiesty wyth thassent of hys moost honorable preuy counsaill concernyng the true and lawfull wyndyng of wolles.</title>
+            <title>Proclamations. 1550-05-21</title>
+            <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1550</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21522</idno>
+            <idno type="STC">STC 7831</idno>
+            <idno type="STC">ESTC S110369</idno>
+            <idno type="EEBO-CITATION">99845925</idno>
+            <idno type="PROQUEST">99845925</idno>
+            <idno type="VID">10857</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21522)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10857)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 25:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamacion set furth by thee Kynges Maiesty wyth thassent of hys moost honorable preuy counsaill concernyng the true and lawfull wyndyng of wolles.</title>
+                  <title>Proclamations. 1550-05-21</title>
+                  <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+               </titleStmt>
+               <extent>2 leaves   </extent>
+               <publicationStmt>
+                  <publisher>Richardus Grafton typographic regius excudebat,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Mense maii. A, M.D,L. Cum priuilegio ad imprimendum solum [1550]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:10857:1"/>
+            <head>A Proclamation ſet furth by thee Kynges Maieſty, wyth thaſſent of hys mooſt honorable preuy Counſaill concernyng the true and laufull wyndyng of wolles.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Here in the Parlyament holden in the .xxvii. yere of the reigne of oure moſte noble Progenytor kynge Edward the thirde, it was enacted and ordeyned amonge other thynges, that all wolpackers and wynders of wolles, ſhould be ſworne &amp; take a corporal othe before the Mayre and Conſtables of the Staple of Weſtminſter, for the tyme beynge, truly and Iuſtely to wynde and packe all the wolles wythin thys Realme, by force of which eſtatute and by the good ordinaunces made in y<hi rend="sup">e</hi> ſayd eſtaple, the feloweſhippe of wole wynders, otherwyſe called wollmen haue euer ſyns Iuſtely and truly wounde and packed all ſuche wolles as they haue medled wyth thro<g ref="char:EOLhyphen"/>ughoute thys Realme, vnto nowe of late dyuerſe and many perſones contrary to the ſayd Eſtatute ta<g ref="char:EOLhyphen"/>kyng vpon theim to be wollewynders in many places of thys Realme, neither beyng ſworne nor expert in wyndyng and foldyng of wolles, of which ſome of theim be Taillors, weauers, Cordewayners, Bar<g ref="char:EOLhyphen"/>bors, Huſbondemen, and other artifycers, haue gone about and daily doe go aboute throughoute thys Realme, in many places, and practyſe theim ſelfes in wyndynge and foldynge of the ſayd wolles by the procurement and meanes of the owners and breders of the ſayde wolles, and doo wynde vp and dyſcey<g ref="char:EOLhyphen"/>tefully put in to the ſayde Fleeys of wolle, Sande, ſtones, Duſte, Pitche, Tarre, Claye, Yron, Leadd, double markes, ſhurlockes, dounge, La<g ref="char:cmbAbbrStroke">̄</g>mſwolle, and other deceyueable thynges, not onely to the greate ſlaunder of thys Realme, But alſo to the ſlaunder of the marchauntes of the ſaide Eſtaple, and lykewyſe alſo to the great hynderaunce and diſceite of the ſayd marchauntes as alſo to the great loſſe &amp; preiudyce of the kynges ſubiectes vſing the feate or crafte of Clothmakynge within this realme: For reformacion and redreſſe wherof, the kynges moſt Royal Maieſty by thaduice of his moſt honorable cou<g ref="char:cmbAbbrStroke">̄</g>ſail, ſtreight<g ref="char:EOLhyphen"/>ly chargeth and commaundeth that no maner of perſon or perſones whatſoeuer he or thei be at any time hereafter goo about, or take vpon hym or theim to wynde or Folde any maner of wolles in any countrey where any end wolles are acuſtomed to be wrought, had or vſed for the marchaunte of the Staple, or the Clothier, before he or thei ſhalbe admytted &amp; allowed by the Maſters &amp; wardens of the company, and felowſhippe of the wolmen of the Cytie of Londo<g ref="char:cmbAbbrStroke">̄</g> or one of theim for the tyme being, to the<g ref="char:cmbAbbrStroke">̄</g>tent that he or they ſhalbe expert and haue knoweledge in the ſayd crafte or myſterye, for the true wyndyng and folding of wolles. And that euery perſon, or perſons ſo allowed and admytted for an able and lawful workeman or workemen by the ſayd maſter and wardeyns or one of theim for the tyme being of the ſayd companye or felowſhippe of wolmen ſhal haue a teſtimonyal, or certificat of his allowaunce and admyttaunce vn<g ref="char:EOLhyphen"/>der the Seale of the Mayre of the Staple of Weſtminſter, for the tyme beyng and that none of the ſayd perſons ſo allowed and admitted, or that ſhalbe ſo allowed &amp; admytted ſhall go about or take vpon him or theim to wynde, or folde any wolles before he or thei haue taken a corporall othe before the ſaid mayre for the tyme beyng, that he or thei ſhal truly and Iuſtely without deceyte, wynde or ffolde all and ſyngu<g ref="char:EOLhyphen"/>ler ſuche wolle, or wolles as he or they ſhall take vpon hym or theim to wynde or ffolde, without leauing, or puttyng wythin any flece, or Fleces, any maner Clokketes, Lockes, Hynderſhankes, Tailes, waſ<g ref="char:EOLhyphen"/>ſhelockes, Stones, Sande, Duſt, Cummer, or doble markes, or any wolle, or wolles, of worſe nature, or growynge, then the ſame Fleece is, or any other fylth to be left vpon the breeche of any fleece, or fleeces whereby any ſuche fleece, or fleeces may be empayred, or made weightyet, or mynyſhe, or take awaye any parte, or porcion of the goodnes of any of the ſame fleeces to thentent to deceyue the buyers, ne ſhall vſe
+<pb facs="tcp:10857:2" rendition="simple:additions"/> any other deceyte crafte, fraude, or gyle therein vpo<g ref="char:cmbAbbrStroke">̄</g> payne of impryſonment by the ſpace of tenne Dayes, and to be ſet vpon the pyllotye in the nexte markette towne wyth a fleece of wolle hangyng aboute hys necke. And his Maieſty by thaſſe<g ref="char:cmbAbbrStroke">̄</g>t aforeſaid, further ſtraightly chargeth &amp; commaundeth that no grower, breeder, brogar, or gatherer of any wolles wythin any of his graces counties ſhall at any tyme hereafter ſet a worke any wollefolder, or wollewynder to folde or wynde his or their wolle or wolles, vnleſſe y<hi rend="sup">e</hi> ſaid wollefolder, or wollwinder, bring with him or them a teſtimonial or certificat vnder the Seale of the ſaid mayre of the Staple of Weſtminſter for the tyme beyng, teſtyfieng hym or theim to be ſworne and ad<g ref="char:EOLhyphen"/>mytted for an hable workeman to ffolde and wynde wolles vpon lyke payne and paynes as are and bee aboue expreſſed. And foraſmuche as it is perceiued and certenly knowen, that dyuerſe couetous perſons nowe of late of their gready and vnſaciable myndes, not beyng contented ne ſatiſfyed wyth ſuch increaſe of wolles of their ſhepe, as God hathe geuen theim, but contrary to al godlynes and honeſtie haue a<g ref="char:EOLhyphen"/>buſed theſaid gifte of god, in lettinge their ſaid ſheepe remaine vnſhorne and vnclipte by the ſpace of thre weekes or a moneth, after their ſaide waſſhing and driyng againe of thee ſame, before they wyll ſheere or clyppe theim, to thentent their ſayd wolles mought be the weightyer, partely by meanes of their Sweat<g ref="char:EOLhyphen"/>yng and partely alſo through other Fylth whiche dothe encreaſe by reaſon of their long dyfferryng the Shearyng and clippyng of the ſame, aſwell to thempairyng of the ſame wolles, as alſo to the ſhameful deceyte of the ſayd Marchauntes of the ſayd Eſtaple and the clothyers of this Realme biyng or work<g ref="char:EOLhyphen"/>yng of the ſame. Wherevpo<g ref="char:cmbAbbrStroke">̄</g>, for thaduoydyng and eſchuyng aſwell of that crafte and diſceyte as al other abouenamed in tyme to come, the kynges moſte royall maieſtie wyth thaſſent aforeſayd, ſtraightly char<g ref="char:EOLhyphen"/>geth and commaundeth that fromhenſforthe no grower or breeder of wolles whatſoeuer he or they bee ſhall permyte or ſuffer his or their ſhepe beyng waſhed and dried agayne ready to be ſhorne to go aboue fiue or ſixe dayes vnſhorne, or vnclipte, vpon paine of forfeture for euery hundred of the ſame Shepe, ſo remainyng vnclipte as is aboue ſpecifyed forty ſhillinges, or vnder or aboue an hundred after the ſame rate, to be payde to oure ſoueraigne Lorde the kynge in his Exchequer at Weſtminſter. And further hys maieſtie by thaſſent aforſayd ſtreightly chargeth &amp; commaundeth al and euery Iuſtice of peace, Maires, Sheryffes, Baylyffes and all other Officers and Miniſters, that they and euery of theym cauſe euerye ſuch offender, or offenders to be puniſhed for ſuch offence or offences according as is afore expreſſed and declared, &amp; that whatſoeuer Iuſtice of peace, mayre, Sheriffe, Baylyfe, or other officer do refuſe to puniſhe any perſon or perſonnes ſo to hym or theim preſented accordyng to this preſent ordynaunce, and his or their faultes duely knowen and proued, ſhal forfeite to the kynges maieſtie our Soueraigne Lord twen<g ref="char:EOLhyphen"/>ty poundes, to be payde in his hyghnes Exchecquet, and further to incurre hys graces high diſpleaſure.</p>
+            <closer>God ſaue the King.</closer>
+            <closer>
+               <signed>
+                  <hi>RICHARDVS GRAPTON</hi> typographus Regius excudebat. Menſe Maii. A, M.D, L. Cum priuilegio ad imprimendum ſolum.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
